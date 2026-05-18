@@ -78,7 +78,7 @@ Authentication:
   - BiometricAuth: Required for sensitive data
   - JWT: Proper validation + rotation
   - OAuth2: PKCE implementation
-  - Storage: FlutterSecureStorage only
+  - Storage: FlutterSecureStorage or ExpoSecureStorage only
 
 Protection:
   - Root/Jailbreak: Detection required

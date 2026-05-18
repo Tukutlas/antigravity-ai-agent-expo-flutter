@@ -1,4 +1,4 @@
-# Antigravity AI Agents - Project Installation Script for Windows
+﻿# Antigravity AI Agents - Project Installation Script for Windows
 # Version: 2.4
 # Description: Installs agents and workflows for a specific project
 

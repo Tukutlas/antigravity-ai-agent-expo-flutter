@@ -1,4 +1,4 @@
-# Antigravity AI Agents - Global Installation Script for Windows
+﻿# Antigravity AI Agents - Global Installation Script for Windows
 # Version: 2.4
 # Description: Installs agents and workflows globally for all Antigravity AI projects
 
